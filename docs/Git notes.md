@@ -1,6 +1,6 @@
-# Learning git!
+# Learning git
 
-## Settings!
+## Settings
 
 Remember to set your name and email when setting up git!
 
@@ -109,7 +109,7 @@ Finally to delte a branch use
 git branch -d <Branch name>
 ```
 
-### Further reading:
+### Further reading
 
 - [Free official git book](https://git-scm.com/book/en/v2)
 - [Official git docs](https://git-scm.com/doc)
